@@ -1,5 +1,5 @@
 ---
-title: "It'smy1sttime"
+title: "its-my-1st-time"
 date: 2026-03-08
 author: "Ars"
 ---
